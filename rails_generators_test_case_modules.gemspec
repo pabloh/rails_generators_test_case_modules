@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = RailsGeneratorsTestCaseModules::VERSION
   spec.authors       = ["Pablo Herrero"]
   spec.email         = ["pablodherrero@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Backports for Rails::Generator::TestCase helper modules for railties 3.2}
+  spec.summary       = %q{Backports for Rails::Generator::TestCase helper modules for railties 3.2}
   spec.homepage      = ""
   spec.license       = "MIT"
 
