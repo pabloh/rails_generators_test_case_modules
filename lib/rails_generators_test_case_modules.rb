@@ -1,5 +1,5 @@
 require "rails_generators_test_case_modules/version"
 
-module RailsGeneratorsTestCaseModules
-  # Your code goes here...
-end
+require "rails/generators/testing/behaviour"
+require "rails/generators/testing/setup_and_teardown"
+require "rails/generators/testing/assertions"
