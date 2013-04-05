@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["pablodherrero@gmail.com"]
   spec.description   = %q{Backports for Rails::Generator::TestCase helper modules for Rails 3.2}
   spec.summary       = %q{Backports for Rails::Generator::TestCase helper modules for Rails 3.2}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/pabloh/rails_generators_test_case_modules"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
