@@ -16,9 +16,6 @@ Or install it yourself as:
 
     $ gem install rails_generators_test_case_modules
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
